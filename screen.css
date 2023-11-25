@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(19, 25, 24);
+    color: #696969;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(17, 198, 211);
+    font-size: 2em;
+}
+p{
+    font-size: x-large;
+    padding-left: 1750px;
+    color: aqua
+}
+
+.tom, .jerry, .doremon, .micky mouse {
+    margin: 1em;
+    border: 2px solid #696969;
+    border-radius: 5px;
+    padding: 1em;
+    background-color: #FFFFFF;
+    color: #696969;
+    display: inline-block;
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: #696969;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8B4513;
+}

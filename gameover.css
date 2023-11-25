@@ -1,0 +1,26 @@
+
+        body {
+            background-color: darkgray;
+            color: white;
+            text-align: center;
+            font-family: cursive;
+            background-image: url(https://th.bing.com/th/id/OIP.B4fYk397gL74wSpQJZb0qwHaEK?rs=1&pid=ImgDetMain);
+        }
+        #gameOverContainer {
+            margin-top: 150px;
+            padding: 350px;
+            font-size: x-large;
+        }
+
+        button{
+            font-family: cursive;
+            padding: 10px;
+            padding-bottom:20px ;
+            padding-left: 40px;
+            padding-right: 40px;
+            font-size: larger;
+            background-color: rgb(220, 225, 225);
+            border-radius: 10px;
+        }
+       
+        
